@@ -4,7 +4,7 @@ const MavBar = () => {
   return (
     <>
       <nav className="w-full">
-        <div className="w-[81%] absolute rounded-md right-0 top-2 bg-white flex flex-wrap items-center justify-between p-4">
+        <div className="w-[81%] absolute rounded-md right-0 top-2 bg-white flex flex-wrap items-center justify-between py-4">
           <form className="max-w-lg">
             <div className="flex">
               <div className="relative w-full">
